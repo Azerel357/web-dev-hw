@@ -1,0 +1,12 @@
+How is the web different than the internet?
+  The "web" is an abundance of information that has been created by people and can be accessed via the internet. The Internet is just a 
+  gate way to access the "web".
+Briefly describe how the internet works.
+  There are servers that connect to the internet that allow for multiple of the servers to comunicate. How clients access the internet is
+  usually though an Internet Service Provider (ISP) that allows the client (i.e. a laptop) to indirectly connect to the internet by connecting
+  to a server that is directly connected tot he internet.
+What is a directory, and what is its relationship to files?
+  A directory ia a place in the computer to store and oranize files.
+Why is using a VCS beneficial?
+  It is beneficial in case a certain version of wahtever you are working on gets corrupted or gets lost. You can simply rollback to a 
+  previous version of the project.
