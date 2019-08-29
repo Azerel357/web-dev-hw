@@ -1,4 +1,4 @@
-# Anthony Stroppel's web-dev-hw rep
+# Anthony Stroppel's web-dev-rep
 
 this repository is for web design homework
 
